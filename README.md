@@ -1,6 +1,8 @@
 # Olá! Meu nome é Emanuel :smile: :space_invader: :doughnut:
 
-Eu sou um desenvolvedor voltado para aplicações web. Curso Engenharia de Software e atualmente trabalho principalmente com Python e Django.
+Eu sou um desenvolvedor voltado para aplicações web. 
+
+Curso Engenharia de Software e atualmente trabalho principalmente com Python e Django.
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
 
