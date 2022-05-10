@@ -1,4 +1,4 @@
-# Olá! Eu sou o Emanuel Almeida :smile: :space_invader: :doughnut:
+# Olá! Meu nome é Emanuel :smile: :space_invader: :doughnut:
 
 Eu sou um desenvolvedor voltado para aplicações web. Curso Engenharia de Software e atualmente trabalho principalmente com Python e Django.
 
