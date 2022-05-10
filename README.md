@@ -1,6 +1,6 @@
 # Olá! Eu sou o Emanuel Almeida :smile: :space_invader: :doughnut:
 
-__Eu sou um desenvolvedor voltado para aplicações web. Curso Engenharia de Software e atualmente trabalho principalmente com Python e Django.
+Eu sou um desenvolvedor voltado para aplicações web. Curso Engenharia de Software e atualmente trabalho principalmente com Python e Django.
 
 ## :star: Tecnologias nas quais tenho maior conhecimento :star: ##
 
