@@ -18,7 +18,7 @@ Curso Engenharia de Software, sou desenvolvedor Back-end e atualmente trabalho p
 
 ## :white_check_mark: Minhas estatísticas ##
 
-[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emanuel-AlmeidaDev&theme=solarized_dark)](#)
+[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emanuel-AlmeidaDev)](#)
 
 ## Obrigado por visitar o meu perfil :wave:
 
